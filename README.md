@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm [Than Than Shein] 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -14,11 +14,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+Hands-on Data Analytics and Business Intelligence professional with banking analytics experience, focused on Power BI dashboard development and data visualization. Builds interactive dashboards and KPI / MIS reports using Power BI, DAX, and data modeling, and prepares data with SQL / Oracle Database and ETL processes, including data transformation, validation, and reconciliation. Automates recurring reporting workflows with Power Automate and uses Python automation for data extraction, reducing manual effort, and translates stakeholder requirements into scalable BI solutions and actionable business insights. Holds the Microsoft Certified: Power BI Data Analyst Associate (PL-300) certification (Passed: July 2026).
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
